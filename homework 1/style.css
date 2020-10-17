@@ -1,0 +1,132 @@
+/** {*/
+/*    padding: 0;*/
+/*    margin: 0;*/
+/*}*/
+body {
+    /*background: url("IMG.jpg ");*/
+    /*background-size: 1500px;*/
+    /*background-attachment: fixed;*/
+}
+#title {
+    display: block;
+    /*padding-left: 15px;*/
+    /*padding-right: 15px;*/
+    position: fixed;
+    left: 0;
+    top: 0;
+    right: 0;
+
+    background-color: black;
+    color: white;
+    padding: 25px;
+
+}
+
+.inline-search {
+    display: inline-block;
+    /*background-color: black;*/
+    /*color: white;*/
+    padding-right: 20px;
+    padding-left: 20px;
+    text-decoration: none;
+    text-decoration-color: aqua;
+
+}
+#title_font {
+    font-family: fantasy;
+    font-size: 25px;
+}
+#a1, #a2, #a3, #a4 {
+    text-decoration: none;
+    color: white;
+}
+/*th {*/
+/*    font-size: 13px;*/
+/*    font-weight: normal;*/
+/*    background: #b9c9fe;*/
+/*    border-top: 4px solid #aabcfe;*/
+/*    border-bottom: 1px solid #fff;*/
+/*    color: #039;*/
+/*    padding: 15px;*/
+/*}*/
+/*td {*/
+/*    background: #e8edff;*/
+/*    border-bottom: 1px solid #fff;*/
+/*    color: #669;*/
+/*    border-top: 1px solid transparent;*/
+/*    padding: 15px;*/
+/*    padding-right: 100px;*/
+/*}*/
+/*tr:hover td {background: #ccddff;}*/
+
+th {
+    font-size: 13px;
+    font-weight: normal;
+    background: #a0a0a0;
+    border-top: 4px solid #8d8c8c;
+    border-bottom: 1px solid #fff;
+    color: black;
+    padding: 15px;
+}
+td {
+    background: #cdcfcd;
+    border-bottom: 1px solid #fff;
+    color: black;
+    border-top: 1px solid transparent;
+    padding: 15px;
+    padding-right: 100px;
+}
+tr:hover td {background: #b7b6b6
+}
+
+.link-B:before {
+    display: block;
+    content: "";
+    height: 100px;
+    margin: -55px 0 0;
+}
+
+
+/*.anchor {*/
+/*    position: absolute;*/
+/*    margin-top:500px;*/
+/*}*/
+#top1 {
+    padding-top: 55px;
+    margin-top: -55px;
+    -webkit-background-clip: content-box;
+    background-clip: content-box;
+}
+img {
+    width: 320px;
+    /*height: 400px;*/
+    /*display: block;*/
+    border-radius: 2%;
+    margin: 0 auto;
+}
+
+hr {
+    height: 3px;
+    color: black;
+    border: none;
+    background-color: black;
+}
+.contacts {
+    height: 20px;
+    width: 20px;
+
+}
+
+h2  {
+    margin-bottom: -5px
+}
+/*#vidstup {*/
+/*    margin: 25px;*/
+/*}*/
+
+/*body {*/
+/*    padding: 0;*/
+/*    margin: 0;*/
+/*    font-family: Kinnari;*/
+/*}*/
+
